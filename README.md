@@ -1,2 +1,2 @@
 # unipermailgw
-mailgw.uniper.de
+mailgw.uniper.de courtesy of abuse@uniper.energy

@@ -1,0 +1,2 @@
+# unipermailgw
+mailgw.uniper.de
